@@ -1,0 +1,26 @@
+.shopHeader  {
+  font-size: 35px;
+  border-bottom: 1px solid #e5e5e5;
+
+}
+
+.shopHeader .logo {
+  margin-right: auto;
+  font-family: 'Playfair Display', serif!important;
+  text-decoration: none;
+}
+
+.cartIcon {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+  
+  
+  i {
+    color: cadetblue;
+    margin-right: 15px;
+  }
+}
+ 

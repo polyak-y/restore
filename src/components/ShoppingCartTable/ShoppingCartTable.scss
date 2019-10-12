@@ -1,0 +1,26 @@
+.shoopingCartTable {
+  margin-top: 55px;
+
+  .total {
+    text-align: right;
+    font-size: 1.3rem;
+    margin-right: 10px;
+  }
+
+  .table {
+    button {
+      margin-right: 5px;
+    }
+
+    thead {
+      tr {
+        th {
+          &:last-child {
+            width: 165px;
+          }
+        }
+      }
+    }
+  }
+}
+
